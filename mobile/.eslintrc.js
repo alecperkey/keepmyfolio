@@ -32,6 +32,7 @@ module.exports = {
     'no-plusplus': OFF,
     'no-return-assign': OFF,
     'no-underscore-dangle': OFF,
+    'linebreak-style': OFF,
     'react-native/no-color-literals': ERROR,
     'react-native/no-inline-styles': ERROR,
     'react-native/no-unused-styles': ERROR,
